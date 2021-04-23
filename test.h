@@ -1,0 +1,1 @@
+int test(char* name, char* result, char* expected);
